@@ -13,7 +13,7 @@ My main research interest is robotics, concretely grasping and computer vision t
 
 I am actively searching for a PostDoc in any topic related to those described above (starting on September 2025 - or even before, previously negociating with my supervisor). However, I am quite open-minded and, if you have an idea or an ambitious project, I am your guy!
 
-For more details check out [the latest news]() or have a look at [my publications]() and [projects](). If you are a Bachelor or Master student, check [teaching & student supervision]() section.
+For more details check out [the latest news](https://ignpaub.github.io/news/) or have a look at [my publications](https://ignpaub.github.io/publications/) and [projects](https://ignpaub.github.io/projects/). If you are a Bachelor or Master student, check [teaching & student supervision](https://ignpaub.github.io/teaching_student_supervision) section.
 
 Finally, for more information and contact, check [CV](/files/curriculum_american_2024.pdf). Hope to hear from you soon!
 
