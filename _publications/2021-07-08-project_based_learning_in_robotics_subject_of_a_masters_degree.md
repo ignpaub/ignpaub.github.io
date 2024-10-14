@@ -1,0 +1,15 @@
+---
+title: "Project-based learning in robotics subject of a Master's Degree"
+collection: publications
+category: conferences
+permalink: /publication/2021_paee
+excerpt: ' '
+date: 2021-07-08
+venue: 'International Symposium on Project Approaches in Engineering Education (18th Active Learning in Engineering Education Workshop (ALE) & 13th  International Conference on Active Learning in Engineering Education (PAEE)), Braga (Portugal), 07-09 July'
+paperurl: 'http://ignpaub.github.io/files/2021_paee.pdf'
+citation: "Vicente Morell, Damián Mira, Carlos A. Jara, Javier Pérez, Arturo Bertomeu, Jose Luis Ramón, María J. Blanes, Daniel Sánchez, Ignacio Páez, Gabriel J. Garcia. (2021). &quot;Project-Based Learning in Robotics Subject of a Master's Degree.&quot; <i>International Symposium on Project Approaches in Engineering Education (18th Active Learning in Engineering Education Workshop (ALE) & 13th  International Conference on Active Learning in Engineering Education (PAEE))</i>. 11, 176-183, doi: 10.5281/zenodo.5095636"
+---
+
+The work presented here is part of the development and implementation of methodologies that promote a more reflective, autonomous, collaborative, participatory and meaningful learning, based on entrepreneurship and learning to learn. It is about introducing project-based learning in the Robotics subject of the master’s degree in Automation and Robotics. This subject has been taught for the previous 10 courses in a traditional way, that is, with theoretical classes in a lecture format, where the teacher taught the theoretical contents within the framework of an oral presentation with questions from the students during the presentation or at the end of it. In addition, a series of guided practice exercises were taught, where students consolidated the theoretical contents and acquired the practical skills of the subject. Upon the proposal of the use of projects to manage student learning, it is intended that they are the ones who acquire the necessary knowledge to solve the projects. The teacher becomes a director in the learning process, providing the necessary material so that the student may continue with the development of their real project, understanding each theoretical concept involved in it. One of the main problems that teachers of the subject have encountered over the last 10 years in this subject is that students possess different Engineering profiles. Project-based learning allows teachers to assess the depth in learning specific concepts, so that the subject can add value to all students. In order to know information, an anonymous survey has been carried out that allows for knowing various aspects of the proposed methodology. As students worked in groups, we also consulted about the operation of the group. An individual report of the work carried out was also requested, as well as a group report. All these documents allow teachers to discover the strengths and weaknesses of the proposed methodology.
+
+Keywords: Project-Based Learning, Robotics Education, Engineering Teaching.
