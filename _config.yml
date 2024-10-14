@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ignacio de Loyola Páez-Ubieta"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Ignacio de Loyola Páez-Ubieta"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,33 +22,33 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Ignacio de Loyola Páez-Ubieta"
+  pronouns         : #"he/him"  
+  bio              : "PhD student at University of Alicante"
+  location         : "Alicante (Spain)"
+  employer         : "University of Alicante"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "ignacio.paez@ua.es" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=WLh4L7YAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0001-9901-7264"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : https://www.researchgate.net/profile/Ignacio-De-Loyola-Paez-Ubieta
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"ignpaub"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "ignacio-de-loyola-paez-ubieta"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
@@ -75,6 +75,8 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  pending_manuscripts:
+    title: 'Under review'
   books:
     title: 'Books'
   manuscripts:
@@ -211,7 +213,7 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  teaching_student_projects:
     output: true
     permalink: /:collection/:path/
   publications:
@@ -220,7 +222,7 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  news:
     output: true
     permalink: /:collection/:path/
 
@@ -248,7 +250,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: teaching_student_projects
     values:
       layout: single
       author_profile: true
@@ -275,9 +277,9 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: news
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
 
