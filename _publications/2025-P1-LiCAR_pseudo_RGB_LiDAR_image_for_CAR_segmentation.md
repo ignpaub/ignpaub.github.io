@@ -4,7 +4,7 @@ collection: publications
 category: pending_manuscripts
 #permalink: /publication/2024_robot
 excerpt: ' '
-date: 2025-02-28
+date: 2025-02-27
 venue: '2025 International Conference on Robotics, Computer Vision and Intelligent Systems, Porto (Portugal), 25-27 February'
 #paperurl: 'http://ignpaub.github.io/files/2023_robot.pdf'
 citation: "Ignacio de Loyola Páez-Ubieta, Edison Velasco-Sánchez, Santiago T. Puente (2025). &quot;LiCAR: pseudo-RGB LiDAR image for CAR segmentation.&quot; <i>2025 5th International Conference on Robotics, Computer Vision and Intelligent Systems (ROBOVIS)</i>. Under review"
