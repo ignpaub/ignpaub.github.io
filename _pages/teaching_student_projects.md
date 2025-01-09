@@ -29,7 +29,7 @@ Reinforcement Learning is a discipline that allows the creation of policies and 
 </div>
 <br>
 [Full thesis](https://rua.ua.es/dspace/bitstream/10045/145137/1/TFM-Daniel-Frau-Alfaro.pdf)
-<!--ssociated article]-->
+[Published article](https://www.doi.org/10.1109/ROBOT61475.2024.10796878)
 
 ### Demonstrative dual grip using two UR5e controlled in ROS
 2023 Bachelor Degree Thesis by Daniel Frau Alfaro
@@ -39,7 +39,7 @@ This project involves the teleoperation of two UR5e arms. The position/speed con
 </div>
 <br>
 [Full thesis](https://rua.ua.es/dspace/bitstream/10045/135243/1/Agarre_dual_demostrativo_mediante_dos_UR5e_controlados_en_Frau_Alfaro_Daniel.pdf)
-[Published article](https://link.springer.com/chapter/10.1007/978-3-031-58676-7_36)
+[Published article](https://www.doi.org/10.1007/978-3-031-58676-7_36)
 
 <!-- load profiles in the _teaching repo -->
 <!-- {% include base_path %}
