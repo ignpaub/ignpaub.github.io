@@ -13,7 +13,7 @@ author_profile: true
     <li>Times taught: 1 (2024/2025).</li>
     <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=en&wcodasi=37816&scaca=2024-25">More info available here.</a></li>
   </ul>
-  <li>Fundamentals of Systems and Instrumentation</li>
+  <li>Systems and Instruments Foundations</li>
   <ul>
     <li>Subject of the B.S. degree in Biomedical Engineering.</li>
     <li>Times taught: 1 (2024/2025).</li>   
