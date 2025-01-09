@@ -7,21 +7,29 @@ author_profile: true
 
 # 1. Teaching
 <ul>
-  <li>Design and Simulation of Robots</li>
+  <li>Robot Design and Simulation</li>
   <ul>
-    <li> </li>
+    <li>Subject of the M.S. degree in Automation and Robotics Engineering.</li>
+    <li>Times taught: 1 (2024/2025).</li>
+    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=en&wcodasi=37816&scaca=2024-25">More info available here.</a></li>
   </ul>
   <li>Fundamentals of Systems and Instrumentation</li>
   <ul>
-    <li> </li>
+    <li>Subject of the B.S. degree in Biomedical Engineering.</li>
+    <li>Times taught: 1 (2024/2025).</li>   
+    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/?wlengua=en&wcodasi=33612&scaca=2024-25">More info available here.</a></li>
   </ul>
   <li>Human-Machine Interaction Systems</li>
   <ul>
-    <li> </li>
+    <li>Subject of the M.S. degree in Automation and Robotics Engineering. </li>
+    <li>Times taught: 1 (2024/2025).</li>   
+    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/?wlengua=en&wcodasi=37809&scaca=2024-25">More info available here.</a></li>
   </ul>  
-  <li>Mechanisms and Robot Modelling</li>
+  <li>Robot Mechanisms and Modelling</li>
   <ul>
-    <li> </li>
+    <li>Subject of the B.S. degree in Robotics Engineering.</li>
+    <li>Times taught: 1 (2024/2025).</li>   
+    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/?wlengua=en&wcodasi=33719&scaca=2024-25">More info available here.</a></li>
   </ul>  
 </ul>
 
