@@ -14,8 +14,8 @@ This project is funded by the spanish Ministry of Science and Innovation and the
 <br>
 I am currently collaborating with this project, starting on December 2024:
 <ul>
-    <li>Research on the detection, recognition and location of household solid waste present in urban and/or urbanised settings.</li>
-    <li>Design and build a mobile loading robot to store and transport the collected waste objects.</li>    
+    <li>Researching on the detection, recognition and location of household solid waste present in urban and/or urbanised settings.</li>
+    <li>Designing and building a mobile loading robot to store and transport the collected waste objects.</li>    
 </ul>
 </div>
 <br/>
