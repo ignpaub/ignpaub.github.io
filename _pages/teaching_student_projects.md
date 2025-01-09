@@ -6,12 +6,24 @@ author_profile: true
 ---
 
 # 1. Teaching
-<dl>
-  <dt>Design and Simulation of Robots</dt>
-    <dd>-----</dd>
-  <dt>--</dt>
-    <dd>------</dd>
-</dl>
+<ul>
+  <li>Design and Simulation of Robots</li>
+  <ul>
+    <li> </li>
+  </ul>
+  <li>Fundamentals of Systems and Instrumentation</li>
+  <ul>
+    <li> </li>
+  </ul>
+  <li>Human-Machine Interaction Systems</li>
+  <ul>
+    <li> </li>
+  </ul>  
+  <li>Mechanisms and Robot Modelling</li>
+  <ul>
+    <li> </li>
+  </ul>  
+</ul>
 
 # 2. Student projects
 Student projects are within [AUtomatics, RObotics and Artificial Vision (AUROVA)](http://www.aurova.ua.es/) group.
