@@ -2,12 +2,12 @@
 title: "Robotic approach trajectory using Reinforcement Learning with Dual Quaternions"
 collection: publications
 category: conferences
-#permalink: /publication/2024_robot
+permalink: /publication/2024_robot
 excerpt: ' '
 date: 2024-12-31
 venue: '2024 Iberian Robotics Conference, Madrid (Spain), 6-8 November'
-#paperurl: 'http://ignpaub.github.io/files/2023_robot.pdf'
-citation: "Daniel Frau-Alfaro, Santiago T. Puente, Ignacio de Loyola Páez-Ubieta, Edison Velasco-Sánchez (2024). &quot;Robotic approach trajectory using Reinforcement Learning with Dual Quaternions.&quot; <i>2024 7th Iberian Robotics Conference (ROBOT)</i>. Accepted but pending of publication"
+paperurl: 'http://ignpaub.github.io/files/2024_robot.pdf'
+citation: "Daniel Frau-Alfaro, Santiago T. Puente, Ignacio de Loyola Páez-Ubieta, Edison Velasco-Sánchez (2024). &quot;Robotic approach trajectory using Reinforcement Learning with Dual Quaternions.&quot; <i>2024 7th Iberian Robotics Conference (ROBOT)</i>. 1-6, doi: 10.1109/ROBOT61475.2024.10796878"
 ---
 
 Manipulation tasks in robotics usually involve two phases: an approach to the object and the grasp itself. The first action allows the robot to reach a certain pose in space that is likely to allow the object to be manipulated. Reinforcement Learning (RL) techniques allow a policy to be learned through
