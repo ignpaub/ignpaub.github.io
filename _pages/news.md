@@ -5,6 +5,10 @@ permalink: /news/
 author_profile: true
 ---
 ---
+- 2021.12: &nbsp; I joined [DFESTS](https://dfests.ua.es/) at University of Alicante as an associate professor.
+- 2024.12: &nbsp; I joined [AUROVA](http://www.aurova.ua.es/) lab as a collaborating researcher to work on outdoor robotic manipulation (AMROWA).
+- 2024.12: &nbsp; Paper accepted at VISAPP 2025 conference.
+- 2024.12: &nbsp; Paper accepted at ROBOVIS 2025 conference.
 - 2024.09: &nbsp; Paper accepted at ROBOT 2024 conference.
 - 2024.03: &nbsp; Started a new research stay at Sorbonne University (Paris, France) under Stéphane Doncieux supervision.
 - 2024.03: &nbsp; NOVA member award - merit-based access network where the top 3% of talent connect, develop and accelerate their careers.
