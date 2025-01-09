@@ -6,7 +6,7 @@ author_profile: true
 ---
 **You can find more details about each project on its website by clicking the title of the corresponding project.**
 
-[Autonomous mobile robots for intelligent manipulation in outdoors](http://www.aurova.ua.es/amrowa)
+[Autonomous mobile robots for intelligent manipulation in outdoors (AMROWA)](http://www.aurova.ua.es/amrowa)
 
 <div style="text-align:justify;">
 This project is funded by the spanish Ministry of Science and Innovation and the European Union (PID2021-122685OB-I00) and its purpose is combining robotic manipulation techniques with mobile robotics and artificial intelligence to achieve autonomous manipulation in unstructured outdoor applications without human intervention.
