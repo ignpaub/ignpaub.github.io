@@ -6,6 +6,20 @@ author_profile: true
 ---
 **You can find more details about each project on its website by clicking the title of the corresponding project.**
 
+[Autonomous mobile robots for intelligent manipulation in outdoors](http://www.aurova.ua.es/amrowa)
+
+<div style="text-align:justify;">
+This project is funded by the spanish Ministry of Science and Innovation and the European Union (PID2021-122685OB-I00) and its purpose is combining robotic manipulation techniques with mobile robotics and artificial intelligence to achieve autonomous manipulation in unstructured outdoor applications without human intervention.
+<br>
+<br>
+I am currently collaborating with this project, starting on December 2024:
+<ul>
+    <li>Research on the detection, recognition and location of household solid waste present in urban and/or urbanised settings.</li>
+    <li>Design and build a mobile loading robot to store and transport the collected waste objects.</li>    
+</ul>
+</div>
+<br/>
+
 [Research in Deep Learning Techniques for Large Volumes of Multimodal Data](https://web.ua.es/es/plataforma-dgx/plataforma-de-computacion-dgx.html)
 
 <div style="text-align:justify;">
