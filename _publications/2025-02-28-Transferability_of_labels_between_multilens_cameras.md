@@ -2,11 +2,11 @@
 title: "Transferability of labels between multilens cameras"
 collection: publications
 category: conferences
-#permalink: /publication/2024_robot
+permalink: /publication/2025_visapp
 excerpt: ' '
 date: 2025-02-28
 venue: '2025 International Conference on Computer Vision Theory and Applications, Porto (Portugal), 26-28 February'
-#paperurl: 'http://ignpaub.github.io/files/2023_robot.pdf'
+paperurl: 'http://ignpaub.github.io/files/2025_visapp.pdf'
 citation: "Ignacio de Loyola Páez-Ubieta, Daniel Frau-Alfaro, Santiago T. Puente (2025). &quot;Transferability of labels between multilens cameras.&quot; <i>2025 20th International Conference on Computer Vision Theory and Applications (VISAPP)</i>. Accepted, but awaiting presentation and publication."
 ---
 
