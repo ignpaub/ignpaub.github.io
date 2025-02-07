@@ -5,7 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 ---
-- 2021.12: &nbsp; I joined [DFESTS](https://dfests.ua.es/) at University of Alicante as an associate professor.
+- 2025.01: &nbsp; Paper accepted at ICRA 2025 conference.
+- 2025.01: &nbsp; ROBOVIS 2025 paper is candidate to best poster award.
+- 2024.12: &nbsp; I joined [DFESTS](https://dfests.ua.es/) at University of Alicante as an associate professor.
 - 2024.12: &nbsp; I joined [AUROVA](http://www.aurova.ua.es/) lab as a collaborating researcher to work on outdoor robotic manipulation (AMROWA).
 - 2024.12: &nbsp; Paper accepted at VISAPP 2025 conference.
 - 2024.12: &nbsp; Paper accepted at ROBOVIS 2025 conference.
