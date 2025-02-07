@@ -7,6 +7,6 @@ redirect_from:
   - /resume
 ---
 
-<a href="/files/curriculum_american_2025a.pdf" download>Click to Download</a>
+<a href="/files/curriculum_american_2025b.pdf" download>Click to Download</a>
 
-<iframe src="/files/curriculum_american_2025a.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="1000" title="CV_Ignacio_Paez_Ubieta" frameborder="0" allowfullscreen="true"></iframe>
+<iframe src="/files/curriculum_american_2025b.pdf#toolbar=0&navpanes=0&scrollbar=0" width="100%" height="1000" title="CV_Ignacio_Paez_Ubieta" frameborder="0" allowfullscreen="true"></iframe>
