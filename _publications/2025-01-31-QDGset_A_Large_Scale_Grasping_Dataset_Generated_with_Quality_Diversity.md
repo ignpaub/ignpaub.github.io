@@ -1,7 +1,7 @@
 ---
 title: "QDGset: A Large Scale Grasping Dataset Generated with Quality-Diversity"
 collection: publications
-category: pending_manuscripts
+category: conferences
 permalink: /publication/2025_icra
 excerpt: ' '
 date: 2025-05-24
