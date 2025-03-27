@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Ignacio de Loyola Páez Ubieta. I am a Research Assistant, Adjunct Professor of Automation and Robotics and and PhD student at University of Alicante inside [AUROVA](http://www.aurova.ua.es/). My thesis is supervised by [Prof. Dr. Santiago T. Puente](https://cvnet.cpd.ua.es/curriculum-breve/en/puente-mendez-santiago-timoteo/2771) and comprehends several topics, including robotics, computer vision and grasping.
+Hello! My name is Ignacio de Loyola Páez Ubieta. I am a Research Assistant, Adjunct Professor of Automation and Robotics and PhD student at University of Alicante inside [AUROVA](http://www.aurova.ua.es/). My thesis is supervised by [Prof. Dr. Santiago T. Puente](https://cvnet.cpd.ua.es/curriculum-breve/en/puente-mendez-santiago-timoteo/2771) and comprehends several topics, including robotics, computer vision and grasping.
 
 My main research interest is robotics, concretely grasping and computer vision techniques both inside and outside the domain of Deep Learning. However, I am also curious about Demonstration learning and micro/nano-robotics - anything that could broad my knowledge!
 
