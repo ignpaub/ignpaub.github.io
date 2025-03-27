@@ -34,7 +34,7 @@ author_profile: true
 </ul>
 
 # 2. Student projects
-Student projects are within [AUtomatics, RObotics and Artificial Vision (AUROVA)](http://www.aurova.ua.es/) group.
+Student projects are within [AUtomatics, RObotics and Artificial Vision (AUROVA)](http://www.aurova.ua.es/) laboratory.
 
 ## Open Projects:
 
