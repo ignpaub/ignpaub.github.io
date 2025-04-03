@@ -3,7 +3,7 @@ title: "LiCAR: pseudo-RGB LiDAR image for CAR segmentation"
 collection: publications
 category: conferences
 permalink: /publication/2025_robovis
-excerpt: ' '
+excerpt: 'Candidate to Best Poster Award'
 date: 2025-02-27
 venue: '2025 International Conference on Robotics, Computer Vision and Intelligent Systems, Porto (Portugal), 25-27 February'
 paperurl: 'http://ignpaub.github.io/files/2025_robovis.pdf'
