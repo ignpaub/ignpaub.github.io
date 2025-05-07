@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 ---
+- 2025.04: &nbsp; I was invited to attend the ICRA 2025 Doctoral Consortium.
 - 2025.02: &nbsp; ROBOVIS 2025 paper is candidate to best poster award.
 - 2025.01: &nbsp; Paper accepted at ICRA 2025 conference.
 - 2024.12: &nbsp; I joined [DFESTS](https://dfests.ua.es/) at University of Alicante as an associate professor.
