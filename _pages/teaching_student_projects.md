@@ -40,12 +40,22 @@ Student projects are within [AUtomatics, RObotics and Artificial Vision (AUROVA)
 
 Currently none.
 
-Contact me or [Dr. Santiago T. Puente](https://cvnet.cpd.ua.es/curriculum-breve/es/puente-mendez-santiago-timoteo/2771) if you would like to propose one.
+Contact [me](https://cvnet.cpd.ua.es/curriculum-breve/en/paez-ubieta-ignacio-de-loyola/204002), [Dr. Santiago T. Puente](https://cvnet.cpd.ua.es/curriculum-breve/es/puente-mendez-santiago-timoteo/2771) or [Dr. Francisco Candelas](https://cvnet.cpd.ua.es/curriculum-breve/es/candelas-herias-francisco-andres/11597) if you would like to propose one.
 
 
 
 <!-- # Past Projects: -->
 ## Past student projects:
+### Reward design automation with LLMs for robotic manipulation
+2025 Bachelor Degree Thesis by Moisés Fernández Herrero
+<br>
+<div style="text-align:justify;">
+Manual reward design for Reinforcement Learning (RL) in robotics is both complex and error-prone. This work examines automating that process through Large Language Models (LLMs), extending the Eureka methodology. We assess various commercial LLMs, beyond GPT-4 and GPT-3.5 from the original study, to generate rewards in three robotic manipulation tasks involving the Shadow and Allegro hands in the Isaac Gym simulator. Findings indicate that LLMs, especially recent models and those with Chain-of-Thought reasoning, outperform human-engineered rewards in 100% of the tasks tested, achieving success in high-complexity settings such as pen spinning with the Allegro Hand. Models like O1 and certain Claude variants stand out. The study confirms the strong potential of LLMs to optimize reward design for RL in complex robotics.
+</div>
+<br>
+<!--[Full thesis](https://rua.ua.es/dspace/bitstream/10045/145137/1/TFM-Daniel-Frau-Alfaro.pdf)-->
+[Published article](http://hdl.handle.net/10045/154455)
+
 ### Learning for manipulation using UR5e
 2024 Master Degree Thesis by Daniel Frau Alfaro
 <br>
