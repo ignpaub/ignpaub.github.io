@@ -53,8 +53,8 @@ Contact [me](https://cvnet.cpd.ua.es/curriculum-breve/en/paez-ubieta-ignacio-de-
 Manual reward design for Reinforcement Learning (RL) in robotics is both complex and error-prone. This work examines automating that process through Large Language Models (LLMs), extending the Eureka methodology. We assess various commercial LLMs, beyond GPT-4 and GPT-3.5 from the original study, to generate rewards in three robotic manipulation tasks involving the Shadow and Allegro hands in the Isaac Gym simulator. Findings indicate that LLMs, especially recent models and those with Chain-of-Thought reasoning, outperform human-engineered rewards in 100% of the tasks tested, achieving success in high-complexity settings such as pen spinning with the Allegro Hand. Models like O1 and certain Claude variants stand out. The study confirms the strong potential of LLMs to optimize reward design for RL in complex robotics.
 </div>
 <br>
-<!--[Full thesis](https://rua.ua.es/dspace/bitstream/10045/145137/1/TFM-Daniel-Frau-Alfaro.pdf)-->
-[Published article](http://hdl.handle.net/10045/154455)
+[Full thesis](https://rua.ua.es/dspace/bitstream/10045/155034/1/Automatizacion_del_diseno_de_recompensas_con_LLMs_p_Fernandez_Herrero_Moises.pdf)
+[Published article](https://doi.org/10.64117/simposioscea.v1i1.24)
 
 ### Learning for manipulation using UR5e
 2024 Master Degree Thesis by Daniel Frau Alfaro
