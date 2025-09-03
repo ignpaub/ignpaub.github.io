@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 ---
+- 2025.07: &nbsp; PhD thesis was successfully defended, obtaining an Excellent cum laude .
 - 2025.04: &nbsp; I was invited to attend the ICRA 2025 Doctoral Consortium.
 - 2025.02: &nbsp; ROBOVIS 2025 paper is candidate to best poster award.
 - 2025.01: &nbsp; Paper accepted at ICRA 2025 conference.
