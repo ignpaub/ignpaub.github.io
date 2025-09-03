@@ -57,8 +57,6 @@ Contact [me](https://cvnet.cpd.ua.es/curriculum-breve/en/paez-ubieta-ignacio-de-
 <br>
 <div style="text-align:justify;">
 Firstly, the implementation and commissioning of the control electronics of the motors of an already available land mobile platform will be addressed and, secondly, the development and commissioning of the software capable of controlling the vehicle's driving wheels to achieve the desired speed and direction. In this way, it is intended that the platform will be able to operate in the future as an autonomous mobile vehicle or robot. The platform has a trolley model, with two driving wheels with independent BLDC motors, and two idle or loose wheels. During the project, two controller-amplifiers for the motors of the driving wheels, basic odometry sensors, a manual radio remote control module, and a microcontroller for low-level speed and direction control will have to be incorporated into the platform. This microcontroller shall implement a model of the dolly kinematics to translate the desired speed and direction values into speed or torque commands for the two wheels. The microcontroller shall also address the manual operation commands received by radio, and provide a basic interface to operate the robot from a future on-board computer.
-
-Translated with DeepL.com (free version)
 </div>
 <br>
 [Full thesis](https://rua.ua.es/bitstream/10045/158990/1/Electronica_y_control_de_bajo_nivel_para_una_plata_Tora_Asensio_Miguel_Angel.pdf)
