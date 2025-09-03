@@ -8,7 +8,7 @@ date: 2025-04-01
 venue: 'Machine Vision and Applications (MVA)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://ignpaub.github.io/files/2023_jint.pdf'
-citation: 'Ignacio de Loyola Páez-Ubieta, Daniel Frau-Alfaro, Santiago Timoteo Puente (2025). &quot;GeoGraspEvo: Multifinger Grasp Pose Estimation. &quot; <i>Machine Vision and Applications (MVA)</i>. Under review'
+citation: 'Ignacio de Loyola Páez-Ubieta, Daniel Frau-Alfaro, Santiago Timoteo Puente (2025). &quot;GeoGraspEvo: Multifinger Grasp Pose Estimation. &quot; <i>Machine Vision and Applications (MVA)</i>. Under second review'
 
 ---
 
