@@ -6,13 +6,27 @@ author_profile: true
 ---
 **You can find more details about each project on its website by clicking the title of the corresponding project.**
 
+
+[Practical and REliable FOundation models for Robot Manipulation (PERFORM)](https://research.fi/en/results/funding/83079)
+
+<div style="text-align:justify;">
+This project is funded by the Research Council of Finland and its purpose is to develop VLMs and LLMs for industrial robot manipulators to solve new tasks in novel situations.
+<br>
+<br>
+I am currently collaborating with this project, starting on December 2025:
+<ul>
+    <li>Research on LLMs / VLMs applied to robotic manipulation tasks.</li> 
+</ul>
+</div>
+<br/>
+
 [Autonomous mobile robots for intelligent manipulation in outdoors (AMROWA)](http://www.aurova.ua.es/amrowa)
 
 <div style="text-align:justify;">
 This project is funded by the spanish Ministry of Science and Innovation and the European Union (PID2021-122685OB-I00) and its purpose is combining robotic manipulation techniques with mobile robotics and artificial intelligence to achieve autonomous manipulation in unstructured outdoor applications without human intervention.
 <br>
 <br>
-I am currently collaborating with this project, starting on December 2024:
+I collaborated for 11 months (December 2024 - November 2025) with this project:
 <ul>
     <li>Researching on the detection, recognition and location of household solid waste present in urban and/or urbanised settings.</li>
     <li>Designing and building a mobile loading robot to store and transport the collected waste objects.</li>    
