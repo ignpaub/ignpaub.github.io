@@ -4,7 +4,7 @@ collection: publications
 category: pending_manuscripts
 #permalink: /publication/2023-10-13-vision_and_tactile_robotic_system_to_grasp_litter_in_outdoor_environments
 excerpt: ' '
-date: 2025-04-01
+date: 2025-12-17
 venue: 'Journal of Intelligent and Robotic Systems (JINT)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://ignpaub.github.io/files/2023_jint.pdf'
