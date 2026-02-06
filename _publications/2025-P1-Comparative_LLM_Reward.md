@@ -8,7 +8,7 @@ date: 2025-10-5
 venue: 'IEEE Transactions on Robotics (T-RO)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'http://ignpaub.github.io/files/2023_jint.pdf'
-citation: 'Santiago T. Puente, Ignacio de Loyola Páez-Ubieta, Moisés Fernández-Herrero, Daniel Frau-Alfaro, Carlos Mateo-Agulló (2025). &quot;Comparative of LLM-Generated Rewards for Training RL Agents in Robot Manipulation Tasks. &quot; <i>IEEE Transactions on Robotics (T-RO)</i>. Under review'
+citation: 'Santiago T. Puente, Ignacio de Loyola Páez-Ubieta, Moisés Fernández-Herrero, Carlos Mateo-Agulló (2025). &quot;Comparative of LLM-Generated Rewards for Training RL Agents in Robot Manipulation Tasks. &quot; <i>IEEE Transactions on Robotics (T-RO)</i>. Under review'
 
 ---
 
