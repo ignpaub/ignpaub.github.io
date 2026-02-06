@@ -21,11 +21,11 @@ repository               : "ignpaub/ignpaub.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile2.JPG"
   name             : "Ignacio de Loyola Páez-Ubieta"
   pronouns         : #"he/him"  
   bio              : "Postdoctoral Research Fellow @ Tampere University"
-  location         : "Tampere (Finland)"
+  location         : "Tampere, Finland"
   employer         : "Tampere University"
   uri              : # URL
   email            : "ignacio.paezubieta@tuni.fi" 
