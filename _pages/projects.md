@@ -15,7 +15,8 @@ This project is funded by the Research Council of Finland and its purpose is to 
 <br>
 I am currently collaborating with this project, starting on December 2025:
 <ul>
-    <li>Research on LLMs / VLMs applied to robotic manipulation tasks.</li> 
+    <li>Exploring ViT multi-patch-size analysis for VLM-based perception, targeting open-vocabulary recognition across scales.</li>
+    <li>Investigating fault-tolerant manipulation strategies, with an emphasis on recovery behaviors in cluttered scenes.</li>
 </ul>
 </div>
 <br/>
@@ -28,8 +29,8 @@ This project is funded by the spanish Ministry of Science and Innovation and the
 <br>
 I collaborated for 11 months (December 2024 - November 2025) with this project:
 <ul>
-    <li>Researching on the detection, recognition and location of household solid waste present in urban and/or urbanised settings.</li>
-    <li>Designing and building a mobile loading robot to store and transport the collected waste objects.</li>    
+    <li>Developed a new robotic platform.</li>
+    <li>Designed a force feedback system for a haptic sensor.</li> 
 </ul>
 </div>
 <br/>
@@ -42,7 +43,7 @@ This project was funded by the European Union through the Operational Program of
 <br>
 Indirect collaboration for 40 months (September 2021 - December 2024) with this project:
 <ul>
-    <li>Using the computational resources for training all vision models for both object detection and instance segmentation.</li>
+    <li>Used the computational resources for training all vision models for both object detection and instance segmentation.</li>
 </ul>
 </div>
 <br/>
@@ -55,9 +56,8 @@ This project was funded by the Valencian Regional Government (PROMETEO/2021/075)
 <br>
 I collaborated for 33 months (April 2022 - December 2024) with this project developing:
 <ul>
-    <li>Upgrades in BLUE robotic platform.</li>
-    <li>New grasping algoritmhs for multi fingered grippers.</li>
-    <li>Object detection and segmentation in both RGB and LiDAR images.</li>
+    <li>Derived an analytic grasping method for multi-fingered grippers.</li>
+    <li>Designed RGB, RGB-D, LiDAR and multispectral perception algorithms to analyze the environment.</li>
 </ul>
 </div>
 <br/>
@@ -67,10 +67,9 @@ I collaborated for 33 months (April 2022 - December 2024) with this project deve
 This project was funded by the spanish Ministry of Science, Innovation and Universities (RTI2018-094279-B-I00) and its purpose was advancing the research and development of intelligent robotic manipulation in unstructured outdoor environments by using a mobile manipulator robot.
 <br>
 <br>
-I collaborated for 6 months (September 2021 - February 2022) with this project developing:
+I collaborated for 6 months (September 2021 - February 2022) with this project:
 <ul>
-    <li>Vision modules to allow instance segmentation in outdoor environments.</li>
-    <li>Communications among all modules to allow the succesful picking of objects with the BLUE robotic platform by using ROS, C++ and Python.</li>
+    <li>Developed a complete robotic pipeline to collect household waste outdoors.</li>
 </ul>
 </div>
 <br/>
