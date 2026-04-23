@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 ---
+- 2026.07: &nbsp; Attended International Computer Vision Summer School (ICVSS) organised by Roberto Cipolla, Sebastiano Battiato and Giovanni Maria Farinella.
 - 2025.12: &nbsp; I joined [CogRob](https://research.tuni.fi/cogrob/) lab as a postdoctoral research fellow to work on manipulation and LLMs/VLMs (PERFORM).
 - 2025.07: &nbsp; PhD thesis was successfully defended, obtaining an Excellent cum laude.
 - 2025.04: &nbsp; I was invited to attend the ICRA 2025 Doctoral Consortium.
@@ -21,7 +22,7 @@ author_profile: true
 - 2023.10: &nbsp; Accepted paper at JINT journal.
 - 2023.09: &nbsp; Paper accepted at ROBOT 2023 conference.
 - 2023.07: &nbsp; Two papers accepted at ETFA 2023 conference.
-- 2023.06: &nbsp; Attended Advanced Course on Data Science and MAchine Learning organised by Giuseppe Nicosia and Panos Pardalos.
+- 2023.06: &nbsp; Attended Advanced Course on Data Science and MAchine Learning (ACDL) organised by Giuseppe Nicosia and Panos Pardalos.
 - 2023.03: &nbsp; Accepted paper at IFAC World Congress.
 - 2022.11: &nbsp; Accepted paper at RIAI journal.
 - 2022.07: &nbsp; Attended Foundations of Robotics organised by 5GSmartFact.
