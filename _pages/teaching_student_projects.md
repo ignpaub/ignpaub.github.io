@@ -7,36 +7,48 @@ author_profile: true
 
 # 1. Teaching
 <ul>
+  <li>Advanced robotics</li>
+  <ul>
+    <li>Elective subject of the M.S. degree in Automation Engineering and M.S. degree in Robotics (TUNI).</li>
+    <li>Times taught: 1 (2026/2027).</li>
+    <li>Total number of hours: 28.</li>
+    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=en&wcodasi=33734&scaca=2025-26">More info available here.</a></li>
+  </ul> 
   <li>Teleoperation</li>
   <ul>
-    <li>Subject of the B.S. degree in Robotics Engineering (UA).</li>
+    <li>Mandatory subject of the B.S. degree in Robotics Engineering (UA).</li>
     <li>Times taught: 1 (2025/2026).</li>
+    <li>Total number of hours: 60.</li>
     <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=en&wcodasi=33734&scaca=2025-26">More info available here.</a></li>
-  </ul>
-  <li>Robot Design and Simulation</li>
-  <ul>
-    <li>Subject of the M.S. degree in Automation and Robotics Engineering (UA).</li>
-    <li>Times taught: 1 (2024/2025).</li>
-    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=en&wcodasi=37816&scaca=2024-25">More info available here.</a></li>
-  </ul>
-  <li>Systems and Instruments Foundations</li>
-  <ul>
-    <li>Subject of the B.S. degree in Biomedical Engineering (UA).</li>
-    <li>Times taught: 1 (2024/2025).</li>   
-    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/?wlengua=en&wcodasi=33612&scaca=2024-25">More info available here.</a></li>
-  </ul>
-  <li>Human-Machine Interaction Systems</li>
-  <ul>
-    <li>Subject of the M.S. degree in Automation and Robotics Engineering (UA). </li>
-    <li>Times taught: 1 (2024/2025).</li>   
-    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/?wlengua=en&wcodasi=37809&scaca=2024-25">More info available here.</a></li>
   </ul>  
   <li>Robot Mechanisms and Modelling</li>
   <ul>
-    <li>Subject of the B.S. degree in Robotics Engineering (UA).</li>
+    <li>Mandatory subject of the B.S. degree in Robotics Engineering (UA).</li>
     <li>Times taught: 1 (2024/2025).</li>   
+    <li>Total number of hours: 12.</li>
     <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/?wlengua=en&wcodasi=33719&scaca=2024-25">More info available here.</a></li>
+  </ul>
+  <li>Human-Machine Interaction Systems</li>
+  <ul>
+    <li>Elective subject of the M.S. degree in Automation and Robotics Engineering (UA). </li>
+    <li>Times taught: 1 (2024/2025).</li>   
+    <li>Total number of hours: 20.</li>
+    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/?wlengua=en&wcodasi=37809&scaca=2024-25">More info available here.</a></li>
   </ul>  
+  <li>Systems and Instruments Foundations</li>
+  <ul>
+    <li>Mandatory subject of the B.S. degree in Biomedical Engineering (UA).</li>
+    <li>Times taught: 1 (2024/2025).</li>  
+    <li>Total number of hours: 30.</li>
+    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/?wlengua=en&wcodasi=33612&scaca=2024-25">More info available here.</a></li>
+  </ul>
+  <li>Robot Design and Simulation</li>
+  <ul>
+    <li>Mandatory subject of the M.S. degree in Automation and Robotics Engineering (UA).</li>
+    <li>Times taught: 1 (2024/2025).</li>
+    <li>Total number of hours: 30.</li>
+    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=en&wcodasi=37816&scaca=2024-25">More info available here.</a></li>
+  </ul>
 </ul>
 
 # 2. Student projects
