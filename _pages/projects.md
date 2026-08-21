@@ -13,11 +13,7 @@ author_profile: true
 This project is funded by the Research Council of Finland and its purpose is to develop VLMs and LLMs for industrial robot manipulators to solve new tasks in novel situations.
 <br>
 <br>
-I am currently collaborating with this project, starting on December 2025:
-<ul>
-    <li>Exploring ViT multi-patch-size analysis for VLM-based perception, targeting open-vocabulary recognition across scales.</li>
-    <li>Investigating fault-tolerant manipulation strategies, with an emphasis on recovery behaviors in cluttered scenes.</li>
-</ul>
+I am currently collaborating with this project, starting on December 2025.
 </div>
 <br/>
 
