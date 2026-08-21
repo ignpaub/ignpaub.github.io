@@ -12,7 +12,7 @@ author_profile: true
     <li>Elective subject of the M.S. degree in Automation Engineering and M.S. degree in Robotics (TUNI).</li>
     <li>Times taught: 1 (2026/2027).</li>
     <li>Total number of hours: 28.</li>
-    <li><a href = "https://cvnet.cpd.ua.es/Guia-Docente/GuiaDocente/Index?wlengua=en&wcodasi=33734&scaca=2025-26">More info available here.</a></li>
+    <li><a href = "https://opiskelijanopas.tuni.fi/en/tampere-university/curriculum/course-units/tut-cu-g-43041?year=2026">More info available here.</a></li>
   </ul> 
   <li>Teleoperation</li>
   <ul>
